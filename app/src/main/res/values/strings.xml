@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plant Disease Detection</string>
+    <string name="descriptionImage">Upload a photo of a plant leaf to detect diseases</string>
+    <string name="buttonTakePhoto">Take Photo</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonDiagnose">Detect Image</string>
+    <string name="defaultImage">No image selected</string>
+    <string name="actions">Actions</string>
+    <string name="detection_results">Detection Results</string>
+    <string name="plant_image">Plant Image</string>
+    <string name="details">Disease Remedy</string>
+
+</resources>

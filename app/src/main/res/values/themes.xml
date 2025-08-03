@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Replace Theme.MyApp with your actual theme name -->
+    <style name="Theme.PlantDiseaseDetection" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your colors below -->
+
+    </style>
+</resources>
