@@ -2,6 +2,14 @@
 
 A comprehensive Android application that uses machine learning to detect plant diseases from leaf images. The app combines TensorFlow Lite for image classification with AI-powered disease information retrieval.
 
+## ScreenShots
+
+![WhatsApp Image 2025-08-04 at 10 46 55](https://github.com/user-attachments/assets/df11a8ca-0cbc-4644-8b87-c6b4391adba7)
+![WhatsApp Image 2025-08-04 at 10 46 55 (1)](https://github.com/user-attachments/assets/2ef9af63-8384-4ea7-9751-3bec4420ae95)
+![WhatsApp Image 2025-08-04 at 10 46 56](https://github.com/user-attachments/assets/41a706a5-6b1f-4063-806f-aa350c52a167)
+![WhatsApp Image 2025-08-04 at 10 46 56 (1)](https://github.com/user-attachments/assets/49100780-d04b-43e3-a1e8-cb5748a11634)
+![WhatsApp Image 2025-08-04 at 10 46 56 (2)](https://github.com/user-attachments/assets/e9452541-e9f9-4d1e-94a7-8d53e180bc7e)
+
 ## 📱 Features
 
 ### Core Functionality
